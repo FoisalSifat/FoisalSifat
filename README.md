@@ -6,4 +6,5 @@
 
 
     
-> Learning. Building. Improving and 
+> Learning. Building. Improving
+>  
