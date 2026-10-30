@@ -6,5 +6,4 @@
 
 
     
-> Learning. Building. Improving.
-> Night sky 
+> Learning. Building. Improving
