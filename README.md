@@ -7,5 +7,4 @@
 
     
 > Learning. Building. Improving.
-> Night sky observer 
-
+> Night sky 
