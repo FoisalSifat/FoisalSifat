@@ -7,5 +7,6 @@
 
     
 > Learning. Building. Improving
-> Night Sky 
+
+> Exploring new technologies and creative ideas
 
