@@ -8,5 +8,5 @@
     
 > Learning. Building. Improving
 
-> Exploring new technologies
+> Exploring new technologies and 
 
