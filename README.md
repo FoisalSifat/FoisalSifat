@@ -7,6 +7,7 @@
 
     
 > Learning. Building. Improving
+> Building modern web applications
 
 
 
